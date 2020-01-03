@@ -37,6 +37,7 @@ public class Assignment01 {
             return value;
         }
     };
+    //git test
 
     enum CSC220 {
         ADJECTIVE("CSC220 [adjective} : Ready to create complex data structures"),
